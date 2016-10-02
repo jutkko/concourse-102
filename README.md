@@ -26,7 +26,11 @@ understanding of how to run a job from your directory.
 The later on tasks are for configuring a pipeline, the real tofu (I don't eat
 meat) starts here.
 
+The resources are checked every minute, so let be more patient.
+
 # Reference
+[Tutorial](https://github.com/starkandwayne/concourse-tutorial) from Stark &
+Wayne
 
 # Project52
 This is a project from my [Project52](https://github.com/jutkko/project52).
